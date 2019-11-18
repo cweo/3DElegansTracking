@@ -1,0 +1,4 @@
+*.csv
+*.nd2
+.ipynb*
+*.txt
