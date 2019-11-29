@@ -2,3 +2,4 @@
 *.nd2
 .ipynb*
 *.txt
+*.npz
