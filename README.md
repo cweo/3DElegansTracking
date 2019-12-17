@@ -1,8 +1,1 @@
-# 3DElegansTracking
-J: <br>
-* https://github.com/jackyko1991/vnet-tensorflow
-
-N: <br>
-* https://github.com/mrkolarik/3D-brain-segmentation
-* https://github.com/ellisdg/3DUnetCNN
-* https://github.com/96imranahmed/3D-Unet
+![Alt Text](https://github.com/cweo/3DElegansTracking/blob/master/video.gif)
