@@ -1,5 +1,5 @@
 <p align="center">
-  ___________ input volume ___________________________ ground truth _______________________________ prediction ______________
+  _____________ input volume ___________________________ ground truth _______________________________ prediction _____________
 </p>
 
 ![Alt Text](https://github.com/cweo/3DElegansTracking/blob/master/yey.gif)
