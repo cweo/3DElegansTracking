@@ -3,3 +3,5 @@
 </p>
 
 ![Alt Text](https://github.com/cweo/3DElegansTracking/blob/master/yey.gif)
+
+![Alt Text](https://github.com/cweo/3DElegansTracking/blob/master/idk.png)
