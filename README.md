@@ -4,4 +4,4 @@
 
 ![Alt Text](https://github.com/cweo/3DElegansTracking/blob/master/yey.gif)
 
-![Alt Text](https://github.com/cweo/3DElegansTracking/blob/master/idk.png)
+<img src="idk.png" alt="drawing" width="50"/>
