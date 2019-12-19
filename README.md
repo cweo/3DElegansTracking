@@ -11,3 +11,11 @@ Here is a result of an 3D image on which we do prediction and which is a gif goi
 ![Alt Text](https://github.com/cweo/3DElegansTracking/blob/master/yey.gif)
 
 <img src="idk.png" align="right" alt="drawing" width="100"/>
+
+## Thank you
+
+* Thank you to LPBS researh group @EPFL for organizing this project and warmly involving us into their research.
+
+* Thank you the people who organize the Machine Learning course @EPFL and give us the oppertunity to do this very interesting project from which we learned a lot.
+
+* And finally a special thanks to the MEDISIP research group #UGent for allowing us to use their Ubuntu server with GTX 1080 Ti which solved all our hardware problems!
