@@ -18,4 +18,4 @@ Here is a result of an 3D image on which we do prediction and which is a gif goi
 
 * Thank you the people who organize the Machine Learning course @EPFL and give us the oppertunity to do this very interesting project from which we learned a lot.
 
-* And finally a special thanks to the MEDISIP research group #UGent for allowing us to use their Ubuntu server with GTX 1080 Ti which solved all our hardware problems!
+* And finally a special thanks to the MEDISIP research group @UGent for allowing us to use their Ubuntu server with GTX 1080 Ti which solved all our hardware problems!
