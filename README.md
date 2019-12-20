@@ -3,7 +3,7 @@ You will find two jupyter notebooks in the folder starting by AIA in which we tr
 You will find in the main folder a lot of helpers such as nd2 converted that were used because the format couldn't be read on some machines that we used.
 
 ## Results
-Here is a result of a 3D input image the network has never encountered before on which we do prediction. The gif is going through all the slices of the worm according to the z direction.
+Here is a result of a 3D input image the network has never encountered before on which we do prediction.<br> The gif is going through all the slices of the worm according to the z direction.
 <p align="center">
   ___________ input volume _____________________________ ground truth ______________________________ prediction _____________
 </p>
